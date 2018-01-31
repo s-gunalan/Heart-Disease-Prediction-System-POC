@@ -1,0 +1,64 @@
+Logistic Regression with split::
+Confusion Matrix:
+[[24  5]
+ [12 20]] 
+Accuracy: 0.72131147541 
+Precision: 0.8 
+Recall: 0.625 
+F1 Score: 0.701754385965
+Logistic Regression Without split::
+Confusion Matrix:
+[[128  36]
+ [ 53  86]] 
+Accuracy: 0.706270627063 
+Precision: 0.704918032787 
+Recall: 0.618705035971 
+F1 Score: 0.659003831418
+SVM with split:
+Confusion Matrix:
+[[26  3]
+ [12 20]] 
+Accuracy: 0.754098360656 
+Precision: 0.869565217391 
+Recall: 0.625 
+F1 Score: 0.727272727273
+SVM without split:
+Confusion Matrix:
+[[128  36]
+ [ 54  85]] 
+Accuracy: 0.70297029703 
+Precision: 0.702479338843 
+Recall: 0.611510791367 
+F1 Score: 0.653846153846
+Naive Bayes with split::
+Confusion Matrix:
+[[23  6]
+ [ 9 23]] 
+Accuracy: 0.754098360656 
+Precision: 0.793103448276 
+Recall: 0.71875 
+F1 Score: 0.754098360656
+Naive Bayes without split::
+Confusion Matrix:
+[[134  30]
+ [ 59  80]] 
+Accuracy: 0.706270627063 
+Precision: 0.727272727273 
+Recall: 0.575539568345 
+F1 Score: 0.642570281124
+Random forest without split::
+Confusion Matrix:
+[[163   1]
+ [  7 132]] 
+Accuracy: 0.973597359736 
+Precision: 0.992481203008 
+Recall: 0.94964028777 
+F1 Score: 0.970588235294
+Random forest without split::
+Confusion Matrix:
+[[26  3]
+ [12 20]] 
+Accuracy: 0.754098360656 
+Precision: 0.869565217391 
+Recall: 0.625 
+F1 Score: 0.727272727273
